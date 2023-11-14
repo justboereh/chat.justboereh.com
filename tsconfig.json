@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "target": "ES5", // ESNext when generating drizzle
+    "target": "ESNext", // ESNext when generating drizzle, ES5
     "lib": ["dom", "dom.iterable", "esnext"],
     "allowJs": true,
     "skipLibCheck": true,
